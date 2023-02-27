@@ -1,2 +1,2 @@
-# key_arrow_test
-This is a repo to test 2D arrow key player movement in react.
+# testing-vite-react
+Just a testing repo for creating react application using vite
